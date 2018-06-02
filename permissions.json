@@ -1,5 +1,5 @@
 {
-    "revision": 1,
+    "revision": 2,
     "com.twitter.android": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION",
